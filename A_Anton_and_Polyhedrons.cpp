@@ -1,6 +1,6 @@
 //21.5.25
 //rafy
-//string
+//string and map
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
